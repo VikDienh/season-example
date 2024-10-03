@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class SeasonExample {
 
     public enum Season {
-        WINTER, SPRING, SUMMER, AUTUMN;
+        WINTER, SPRING, SUMMER, AUTUMN
     }
 
     public static void main(String[] args) {
