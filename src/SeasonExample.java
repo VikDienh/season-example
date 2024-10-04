@@ -11,7 +11,7 @@ public class SeasonExample {
         System.out.println("Type the month");
         String month = scanner.nextLine();
 
-        Season  season;
+        Season season;
 
         switch (month.toLowerCase()) {
             case "december":
